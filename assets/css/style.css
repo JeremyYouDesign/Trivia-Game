@@ -1,0 +1,70 @@
+header {
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.65);
+    font-size: 60px;
+}
+
+.container {
+    margin-top: 75px;
+}
+
+body {
+    background-image: url("../images/riddlerbackground.png");
+    background-repeat: no-repeat;
+    background-attachment: center, fixed;
+    background-size: cover;
+    font-family: "Knewave", "cursive";
+    color: rgb(59, 216, 27);
+}
+
+#title {
+    margin: 25px;
+}
+
+#start-div {
+    margin-top: 25px;
+}
+
+#game-div {
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 25px;
+}
+
+#countdown {
+    background-color: rgba(0, 0, 0, 0.65);
+    font-size: 48px;
+    padding: 15px;
+}
+
+#start-btn {
+    margin: 25px;
+}
+
+#clock-div {
+    margin-bottom: 50px;
+}
+
+.options {
+    margin: 10px;
+    color: rgb(59, 216, 27);
+}
+
+#score-div {
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 25px;
+}
+ #comment {
+    margin-top: 15px;
+ }
+
+ .number4 {
+    background: transparent;
+    background-color: transparent;
+    color: transparent;
+ }
+
+ .number:hover {
+    background-color: transparent;
+    color: transparent;
+ }
